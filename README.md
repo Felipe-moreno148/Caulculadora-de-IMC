@@ -3,8 +3,12 @@ Esta é uma ferramenta simples e intuitiva para calcular o Índice de Massa Corp
 
 # Funcionalidades:
 
- Cálculo do IMC: Realiza o cálculo do IMC com base nos valores de peso e altura informados pelo usuário.
- Interface amigável: Possui uma interface intuitiva e fácil de usar, com campos de entrada para peso e altura, um botão para calcular e uma área para exibir o resultado.
+ Cálculo do IMC:
+ Realiza o cálculo do IMC com base nos valores de peso e altura informados pelo usuário.
+ Interface amigável:
+ Possui uma interface intuitiva e fácil de usar, com campos de entrada para peso e altura, um botão para calcular e uma área para exibir o resultado.
+ Responsividade:
+ A calculadora se adapta a diferentes tamanhos de tela, proporcionando uma experiência consistente em dispositivos móveis e desktops.
     
 # Tecnologias utilizadas:
 
@@ -25,3 +29,5 @@ Digite seu peso (em kg) e altura (em metros) nos campos correspondentes.
 
 Clique em "Calcular":
 Clique no botão "Calcular" para obter o resultado do seu IMC.
+
+
