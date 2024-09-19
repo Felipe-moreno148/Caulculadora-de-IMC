@@ -21,9 +21,9 @@ CSS3: Estilização da página, incluindo layout, cores e fontes.
 JavaScript: Lógica para realizar o cálculo do IMC, validar os dados de entrada e atualizar a interface com o resultado.
 
 # Como usar:
+Clone do repositório:
 
-Clone o repositório:
-git clone https://seu-repositorio.git
+    git clone https://github.com/Felipe-moreno148/Caulculadora-de-IMC
 
 Abra o arquivo index.html:
 Abra o arquivo index.html em um navegador web moderno.
