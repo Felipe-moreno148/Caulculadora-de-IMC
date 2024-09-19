@@ -1,0 +1,53 @@
+@font-face { /* Adiciona uma fonte externa */
+    font-family: 'Kalisto normal';
+    src: url(fonts/fonnts.com-Kallisto_Light.otf);
+    font-weight: 200;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Kalisto'; /* Adiciona outra fonte externa */
+    src: url(fonts/fonnts.com-Kallisto_Heavy.otf);
+    font-weight: 200;
+    font-style: heavy;
+}
+body{
+    background: linear-gradient(#307430,#102710);
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    font-family: 'Kalisto normal';
+}
+form{
+    background-color: #ffe4b7;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    border-radius: 20px;
+}
+input{
+    background-color: #dcdcdc;
+    outline: none;border: none;
+    padding: 8px;
+    border-radius: 8px;
+    font-family: 'Kalisto normal';
+}
+button{
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 8px;
+    color: #fff;
+    background-color: #000;
+    font-family: 'Kalisto normal';
+}
+button:hover{
+    background-color: #412600;
+}
+label{
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+#resultado{
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
