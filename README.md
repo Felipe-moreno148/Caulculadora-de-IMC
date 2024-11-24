@@ -31,7 +31,6 @@ Abra o arquivo index.html em um navegador web moderno.
 Insira seus dados:
 Digite seu peso (em kg) e altura (em metros) nos campos correspondentes.
 
-Clique em "Calcular":
 Clique no botão "Calcular" para obter o resultado do seu IMC.
 
 
